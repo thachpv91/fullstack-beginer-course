@@ -1,0 +1,28 @@
+{
+  "id": "buoi4",
+  "title": "Buổi 4: Middleware & Static Files",
+  "description": "Middleware và Static Files",
+  "source": "@site/docs/buoi4.md",
+  "sourceDirName": ".",
+  "slug": "/buoi4",
+  "permalink": "/fullstack-beginer-course/docs/buoi4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi4",
+    "title": "Buổi 4: Middleware & Static Files",
+    "description": "Middleware và Static Files"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 3: Router & Express.js",
+    "permalink": "/fullstack-beginer-course/docs/buoi3"
+  },
+  "next": {
+    "title": "Buổi 5: Session, Cookie & Login",
+    "permalink": "/fullstack-beginer-course/docs/buoi5"
+  }
+}

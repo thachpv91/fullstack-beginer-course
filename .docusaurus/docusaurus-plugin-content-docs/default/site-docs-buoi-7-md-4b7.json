@@ -1,0 +1,28 @@
+{
+  "id": "buoi7",
+  "title": "Buổi 7: Database Cơ bản",
+  "description": "Database cơ bản và kết nối",
+  "source": "@site/docs/buoi7.md",
+  "sourceDirName": ".",
+  "slug": "/buoi7",
+  "permalink": "/fullstack-beginer-course/docs/buoi7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi7",
+    "title": "Buổi 7: Database Cơ bản",
+    "description": "Database cơ bản và kết nối"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 6: Templating với EJS",
+    "permalink": "/fullstack-beginer-course/docs/buoi6"
+  },
+  "next": {
+    "title": "Buổi 8: Hoàn thiện Notes App",
+    "permalink": "/fullstack-beginer-course/docs/buoi8"
+  }
+}

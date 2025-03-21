@@ -1,0 +1,28 @@
+{
+  "id": "buoi6",
+  "title": "Buổi 6: Templating với EJS",
+  "description": "Templating với EJS",
+  "source": "@site/docs/buoi6.md",
+  "sourceDirName": ".",
+  "slug": "/buoi6",
+  "permalink": "/fullstack-beginer-course/docs/buoi6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi6",
+    "title": "Buổi 6: Templating với EJS",
+    "description": "Templating với EJS"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 5: Session, Cookie & Login",
+    "permalink": "/fullstack-beginer-course/docs/buoi5"
+  },
+  "next": {
+    "title": "Buổi 7: Database Cơ bản",
+    "permalink": "/fullstack-beginer-course/docs/buoi7"
+  }
+}

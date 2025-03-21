@@ -1,0 +1,28 @@
+{
+  "id": "buoi2",
+  "title": "Buổi 2: HTML, CSS, JS Cơ bản",
+  "description": "HTML, CSS, JS cơ bản và phục vụ file tĩnh",
+  "source": "@site/docs/buoi2.md",
+  "sourceDirName": ".",
+  "slug": "/buoi2",
+  "permalink": "/fullstack-beginer-course/docs/buoi2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi2",
+    "title": "Buổi 2: HTML, CSS, JS Cơ bản",
+    "description": "HTML, CSS, JS cơ bản và phục vụ file tĩnh"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 1: Hello World với Node.js",
+    "permalink": "/fullstack-beginer-course/docs/buoi1"
+  },
+  "next": {
+    "title": "Buổi 3: Router & Express.js",
+    "permalink": "/fullstack-beginer-course/docs/buoi3"
+  }
+}

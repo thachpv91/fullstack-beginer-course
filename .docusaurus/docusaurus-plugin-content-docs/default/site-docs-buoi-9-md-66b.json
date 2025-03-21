@@ -1,0 +1,28 @@
+{
+  "id": "buoi9",
+  "title": "Buổi 9: Final Project",
+  "description": "Final Project - Xây dựng Notes App hoàn chỉnh",
+  "source": "@site/docs/buoi9.md",
+  "sourceDirName": ".",
+  "slug": "/buoi9",
+  "permalink": "/fullstack-beginer-course/docs/buoi9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi9",
+    "title": "Buổi 9: Final Project",
+    "description": "Final Project - Xây dựng Notes App hoàn chỉnh"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 8: Hoàn thiện Notes App",
+    "permalink": "/fullstack-beginer-course/docs/buoi8"
+  },
+  "next": {
+    "title": "Buổi 10: Deploy lên Render/Vercel",
+    "permalink": "/fullstack-beginer-course/docs/buoi10"
+  }
+}

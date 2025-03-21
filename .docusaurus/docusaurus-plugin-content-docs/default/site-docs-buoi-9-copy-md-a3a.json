@@ -1,0 +1,24 @@
+{
+  "id": "buoi9 copy",
+  "title": "buoi9 copy",
+  "description": "Buổi 9: Final Project - Xây dựng Notes App hoàn chỉnh",
+  "source": "@site/docs/buoi9 copy.md",
+  "sourceDirName": ".",
+  "slug": "/buoi9 copy",
+  "permalink": "/training-fullstask-beginer/docs/buoi9 copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi9 copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "buoi8",
+    "permalink": "/training-fullstask-beginer/docs/buoi8"
+  },
+  "next": {
+    "title": "buoi9",
+    "permalink": "/training-fullstask-beginer/docs/buoi9"
+  }
+}

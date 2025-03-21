@@ -1,0 +1,28 @@
+{
+  "id": "buoi1",
+  "title": "Buổi 1: Hello World với Node.js",
+  "description": "Giới thiệu tổng quan và \"Hello World\" với Node.js",
+  "source": "@site/docs/buoi1.md",
+  "sourceDirName": ".",
+  "slug": "/buoi1",
+  "permalink": "/fullstack-beginer-course/docs/buoi1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi1",
+    "title": "Buổi 1: Hello World với Node.js",
+    "description": "Giới thiệu tổng quan và \"Hello World\" với Node.js"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 0: Welcome & Git",
+    "permalink": "/fullstack-beginer-course/docs/buoi0"
+  },
+  "next": {
+    "title": "Buổi 2: HTML, CSS, JS Cơ bản",
+    "permalink": "/fullstack-beginer-course/docs/buoi2"
+  }
+}

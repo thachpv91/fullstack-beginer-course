@@ -1,0 +1,24 @@
+{
+  "id": "buoi10",
+  "title": "Buổi 10: Deployment",
+  "description": "Deploy lên Render/Vercel",
+  "source": "@site/docs/buoi10.md",
+  "sourceDirName": ".",
+  "slug": "/buoi10",
+  "permalink": "/fullstack-beginer-course/docs/buoi10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi10",
+    "title": "Buổi 10: Deployment",
+    "description": "Deploy lên Render/Vercel"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 9: Final Project",
+    "permalink": "/fullstack-beginer-course/docs/buoi9"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/fullstack-beginer-course/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/fullstack-beginer-course/docs",
+          "mainDocId": "buoi0",
+          "docs": [
+            {
+              "id": "buoi0",
+              "path": "/fullstack-beginer-course/docs/buoi0",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi1",
+              "path": "/fullstack-beginer-course/docs/buoi1",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi10",
+              "path": "/fullstack-beginer-course/docs/buoi10",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi2",
+              "path": "/fullstack-beginer-course/docs/buoi2",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi3",
+              "path": "/fullstack-beginer-course/docs/buoi3",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi4",
+              "path": "/fullstack-beginer-course/docs/buoi4",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi5",
+              "path": "/fullstack-beginer-course/docs/buoi5",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi6",
+              "path": "/fullstack-beginer-course/docs/buoi6",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi7",
+              "path": "/fullstack-beginer-course/docs/buoi7",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi8",
+              "path": "/fullstack-beginer-course/docs/buoi8",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "buoi9",
+              "path": "/fullstack-beginer-course/docs/buoi9",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/fullstack-beginer-course/docs/roadmap",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/fullstack-beginer-course/docs/buoi0",
+                "label": "buoi0"
+              }
+            },
+            "courseSidebar": {
+              "link": {
+                "path": "/fullstack-beginer-course/docs/buoi0",
+                "label": "Buổi 0: Welcome & Git"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "buoi3",
+  "title": "Buổi 3: Router & Express.js",
+  "description": "Xử lý Router thủ công và giới thiệu Express.js",
+  "source": "@site/docs/buoi3.md",
+  "sourceDirName": ".",
+  "slug": "/buoi3",
+  "permalink": "/fullstack-beginer-course/docs/buoi3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi3",
+    "title": "Buổi 3: Router & Express.js",
+    "description": "Xử lý Router thủ công và giới thiệu Express.js"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 2: HTML, CSS, JS Cơ bản",
+    "permalink": "/fullstack-beginer-course/docs/buoi2"
+  },
+  "next": {
+    "title": "Buổi 4: Middleware & Static Files",
+    "permalink": "/fullstack-beginer-course/docs/buoi4"
+  }
+}

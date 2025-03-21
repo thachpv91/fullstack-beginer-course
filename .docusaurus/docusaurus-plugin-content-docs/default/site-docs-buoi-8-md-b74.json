@@ -1,0 +1,28 @@
+{
+  "id": "buoi8",
+  "title": "Buổi 8: Hoàn thiện Notes App",
+  "description": "Hoàn thiện Notes App",
+  "source": "@site/docs/buoi8.md",
+  "sourceDirName": ".",
+  "slug": "/buoi8",
+  "permalink": "/fullstack-beginer-course/docs/buoi8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/buoi8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buoi8",
+    "title": "Buổi 8: Hoàn thiện Notes App",
+    "description": "Hoàn thiện Notes App"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Buổi 7: Database Cơ bản",
+    "permalink": "/fullstack-beginer-course/docs/buoi7"
+  },
+  "next": {
+    "title": "Buổi 9: Final Project",
+    "permalink": "/fullstack-beginer-course/docs/buoi9"
+  }
+}

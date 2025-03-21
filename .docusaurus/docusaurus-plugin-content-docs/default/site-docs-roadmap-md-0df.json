@@ -1,0 +1,20 @@
+{
+  "id": "roadmap",
+  "title": "roadmap",
+  "description": "Lộ trình đào tạo (8 buổi)",
+  "source": "@site/docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/fullstack-beginer-course/docs/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Buổi 9: Final Project",
+    "permalink": "/fullstack-beginer-course/docs/buoi9"
+  }
+}
